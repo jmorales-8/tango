@@ -1,5 +1,5 @@
 # Tango
-A simple TUI application to visualize some common algorihms. The purpose of this application is mainly for my own learning of things I find interesting.
+A simple TUI application to visualize some common algorithms. The purpose of this application is mainly for my own learning of things I find interesting.
 
 ## Features
 ### Says hello world!
